@@ -4,6 +4,8 @@ namespace RemoveDuplicatesFromSortedArray
 {
     class Program
     {
+        // Time: O(n)
+        // Space: O(1)
         public static int RemoveDuplicates(int[] nums)
         {
             int k = 1;
